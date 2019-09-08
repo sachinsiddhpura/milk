@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "milkwala",
+    "slug": "milkwalaa",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "googleAppId": {
+        "ios": "245652154526-oou2jue8h33tm1k637uggto26oajhqb9.apps.googleusercontent.com",
+        "android": "508783783220-bptrb4nbuqs4dsk272rgfds9j5bnp1ke.apps.googleusercontent.com"
+      }
+    }
+  }
+}
